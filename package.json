@@ -21,6 +21,7 @@
     "scratch-view",
     "scratch-image"
   ],
+  "homepage": "https://github.com/ebiba-dp/react-native-scratch#readme",
   "author": "Roy Ben-Sasson",
   "license": "MIT",
   "peerDependencies": {
